@@ -1,0 +1,111 @@
+
+
+
+
+.card:hover {
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
+    overflow: hidden;
+}
+.description{
+    margin-left: 20%;
+}
+#orange,
+select,
+.btn {
+    color: #EB121A
+}
+.btn a, .btn a:visited{
+    color: #EB121A
+}
+
+.fa-search {
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 3px;
+    padding-right: 20px
+}
+
+.search-nav-item {
+    height: 40px
+}
+
+/* nav {
+    padding: 0px 100px
+} */
+
+.fa-user-o,
+.fa-shopping-cart {
+    font-size: 20px;
+    padding: 4px
+}
+
+.form-group {
+    margin-bottom: 5px
+}
+
+label {
+    padding-left: 10px
+}
+
+.form-group:last-child {
+    margin-bottom: 0
+}
+
+h6 {
+    margin-bottom: 0px;
+    font-size: 15px !important;
+}
+
+#sort {
+    outline: none;
+    border: none
+}
+
+.btn {
+    border: 1px solid  #EB121A;
+    border-radius: 10px;
+    background-color: #fff;
+    font-size: small !important;
+}
+
+ .btn a:hover {
+    color: #fff;
+    background-color: #EB121A
+}
+ .btn:hover {
+     color: #fff;
+     background-color: #EB121A;
+ }
+.card-body {
+    padding: 0.5rem
+}
+
+.sign {
+    width: 25px;
+    height: 25px
+}
+
+.discount {
+    border: 1px solid orange;
+    border-radius: 5px;
+    width: 65px;
+    position: absolute;
+    top: 2%
+}
+.card{
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* height: 100%; */
+}
+
+
+
+
+.card-body{
+    text-align: center;
+}
+
